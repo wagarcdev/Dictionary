@@ -7,3 +7,5 @@ CACHING implementation consists on making the Repository the 'Single Source of T
 Queries on the API are stored in the local DB.
 
 Made with MVVM Architecture and Jetpack Compose.
+
+[](https://github.com/wagarcdev/Dictionary/blob/master/blob/dictionary.png?raw=true)
