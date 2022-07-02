@@ -8,4 +8,4 @@ Queries on the API are stored in the local DB.
 
 Made with MVVM Architecture and Jetpack Compose.
 
-[](https://github.com/wagarcdev/Dictionary/blob/master/blob/dictionary.png?raw=true)
+<img src="https://github.com/wagarcdev/Dictionary/blob/master/blob/dictionary.png?raw=true" height="400px" align="bottom" >
