@@ -18,9 +18,9 @@ As consultas na API são armazenadas no banco de dados local usando o Room.
 
 - 🗃️ Implementação de Cache: O Dictionary utiliza o conceito de cache para armazenar os resultados das palavras previamente pesquisadas, tornando as consultas mais rápidas e eficientes.
 
-- 📦 Biblioteca Room: O Room é utilizado para criar e gerenciar o banco de dados local no aplicativo, permitindo o armazenamento das consultas e resultados de palavras.
+- 📦 Room: Utilizado para criar e gerenciar o banco de dados local no aplicativo, permitindo o armazenamento das consultas e resultados de palavras.
 
-- 📱 Arquitetura MVVM: O aplicativo segue a arquitetura MVVM (Model-View-ViewModel) para uma separação clara de responsabilidades e facilitar a manutenção e testabilidade do código.
+- 📱 MVVM: O aplicativo segue a arquitetura MVVM (Model-View-ViewModel) para uma separação clara de responsabilidades e facilitar a manutenção e testabilidade do código.
 
 - 🚀 Jetpack Compose: O Dictionary utiliza o Jetpack Compose para criar a interface de usuário, fornecendo uma experiência moderna, flexível e responsiva.
 
